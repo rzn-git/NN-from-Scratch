@@ -1,2 +1,2 @@
-# NN_from_Scratch
+# Building NN from Scratch
  
